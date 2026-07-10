@@ -166,7 +166,7 @@ IoT-Voice-Controlled-Switch-MQTT
 
 ---
 
-# 🔧 Installation
+#  Installation
 
 ## 1. Clone the Repository
 
@@ -327,7 +327,7 @@ http://192.168.1.120
 
 ---
 
-# 📡 MQTT Topics
+#  MQTT Topics
 
 | Topic | Description |
 |---------|-------------|
