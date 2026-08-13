@@ -6,8 +6,8 @@
 // WiFi Credentials
 //=============================
 
-const char* ssid = "tester";
-const char* password = "123456789045";
+const char* ssid = "WIFI-USERNAME";
+const char* password = "WIFI-PASSWORD";
 
 //=============================
 // MQTT Broker
